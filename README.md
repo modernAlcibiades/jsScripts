@@ -1,0 +1,2 @@
+# jsScripts
+Ethereum related scripts
